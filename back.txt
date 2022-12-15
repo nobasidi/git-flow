@@ -1,0 +1,3 @@
+recherche:
+	code1;
+	code1;
